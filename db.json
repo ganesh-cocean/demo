@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "getOrgIdByName":{
+    "status":true,
+    "data":{
+      "orgId":1
+    }
   }
 }
